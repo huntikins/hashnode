@@ -1,4 +1,4 @@
-## The Beginners Guide to Building Production-ready Apps with Next.js
+## The Beginners Guide to Building Production-ready Apps with Next.js Part One
 
 Over the last week, I have been a happy citizen in the wonderful world of [Next.js](https://nextjs.org/). I have always defaulted to Vue.js when building applications. React is great but I never really identified with it in the same way as Vue. My goodness was I mistaken, learning how to use Next.js made me seriously evaluate my current framework preferences. I recently needed to dive into Next.js to complete a project and this requirement as a result forced me to discover my new favorite framework. Honestly as glad as I am to have spent this time with Next.js, I have a feeling a new portfolio site is in my future 😅. It's that much fun!
 
